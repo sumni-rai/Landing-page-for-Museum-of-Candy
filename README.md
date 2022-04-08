@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumni-rai
-- 👀 I’m interested in Web Development(specifially Front-end) and UX/UI Design 
+- 👀 I’m interested in Web Development (specifially Front-end) and UX/UI Design 
 - 📫 sumnima.bantawarai@outlook.com
 
 <!---
